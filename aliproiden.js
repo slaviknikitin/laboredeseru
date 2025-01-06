@@ -1,0 +1,1 @@
+viewSource(jsonStringifyPrettyCompact(vgSpec), '', '', 'vega');
